@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strStatusAprovacao&Sequence_1",
+        "iContador&Sequence_1",
+        "strAPR&Sequence_1",
+        "strIdEmprestimo&Sequence_1",
+        "strPlanilhaExcel&Sequence_1",
+        "strAPR&Sequence_11",
+        "strIdEmprestimo&Sequence_11",
+        "strUibankUrl&Sequence_1",
+        "tabelaPedidosEmprestimo&Sequence_1",
+        "strCaminhoExcel&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
