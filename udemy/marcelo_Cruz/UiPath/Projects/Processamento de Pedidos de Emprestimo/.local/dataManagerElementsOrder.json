@@ -12,16 +12,12 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "strStatusAprovacao&Sequence_1",
-        "iContador&Sequence_1",
-        "strAPR&Sequence_1",
-        "strIdEmprestimo&Sequence_1",
-        "strPlanilhaExcel&Sequence_1",
-        "strAPR&Sequence_11",
-        "strIdEmprestimo&Sequence_11",
-        "strUibankUrl&Sequence_1",
-        "tabelaPedidosEmprestimo&Sequence_1",
-        "strCaminhoExcel&Sequence_1"
+        "strCaminhoExcel&Sequence_2",
+        "strUibankUrl&Sequence_2",
+        "tabelaPedidosEmprestimo&Sequence_2",
+        "iContador&Sequence_3",
+        "strAPR&Sequence_5",
+        "strIdEmprestimo&Sequence_5"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

@@ -1,0 +1,135 @@
+07/12/2024 16:35:39 => [Debug] Debug started for file: Main
+07/12/2024 16:35:40 => [Info] Processamento de Faturas execution started
+07/12/2024 16:35:41 => [Info] Arquivo PDF: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura1.pdf
+07/12/2024 16:35:42 => [Info] Ficheiro: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura1.pdf
+PAID
+ThisWebHost LTD
+337 Bath Road
+Slough
+Berkshire
+SL1 5P
+United Kingdom
+
+Invoice #38114
+Invoice Date: 21/07/2016
+Due Date: 30/07/2016
+
+Invoiced To
+Some Company LTD - Robotic Automations
+3216 Maple Court, California, MO 63101   USA
+
+Description Total
+Starter Shared Hosting - (28/09/201 - 27/10/2016 6) $50.00 USD
+Hosting Location: United Kingdom (UK)
+
+Late Fee (Added 02/10/2016) $10.00 USD
+
+Sub Total
+Credit
+Grand Total
+$50.00 USD
+$0.00 USD
+$50.00 USD
+07/12/2024 16:35:42 => [Info] Arquivo PDF: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura2.pdf
+07/12/2024 16:35:42 => [Info] Ficheiro: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura2.pdf
+PAID
+ThisWebHost LTD
+337 Bath Road
+Slough
+Berkshire
+SL1 5P
+United Kingdom
+
+Invoice #11222
+Invoice Date: 21/07/2020
+Due Date: 12/08/2016
+
+Invoiced To
+Some Company LTD - Robotic Automations
+3216 Maple Court, California, MO 63101   USA
+
+Description Total
+Starter Shared Hosting - (28/09/201 - 27/10/2016 6) $4120.00 USD
+Hosting Location: United Kingdom (UK)
+
+Late Fee (Added 02/10/2016) $10.00 USD
+
+Sub Total
+Credit
+Grand Total
+$4130.00 USD
+$0.00 USD
+$4130.00 USD
+07/12/2024 16:35:42 => [Info] Arquivo PDF: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura3.pdf
+07/12/2024 16:35:44 => [Info] Ficheiro: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura3.pdf
+this*
+Invoice #45321
+Invoice Date: 05/02/2019
+Due Date: 25/02/2019
+Invoiced To
+Some Company LTD - Robotic Automations
+3216 Maple Court, California, MO 63101 USA
+ThisWebHost LTD
+337 Bath Road
+Slough
+Berkshire
+SL1 5P
+United Kingdom
+Description Total
+Starter Shared Hosting - (28/09/2016 - 27/10/2016) Hosting Location: United Kingdom (UK) $70.00 USD
+Late Fee (Added 02/10/2016) $10.00 USD
+Sub Total $80.00 USD
+Credit $0.00 USD
+Grand Total $80.00 USD
+07/12/2024 16:35:44 => [Info] Arquivo PDF: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura4.pdf
+07/12/2024 16:35:45 => [Info] Ficheiro: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura4.pdf
+PAID
+ThisWebHost LTD
+337 Bath Road
+Slough
+Berkshire
+SL1 5P
+United Kingdom
+
+Invoice #54321
+Invoice Date: 05/12/2017
+Due Date: 30/01/2018
+
+Invoiced To
+Some Company LTD - Robotic Automations
+3216 Maple Court, California, MO 63101   USA
+
+Description Total
+Starter Shared Hosting - (28/09/201 - 27/10/2016 6) $20.00 USD
+Hosting Location: United Kingdom (UK)
+
+Late Fee (Added 02/10/2016) $10.00 USD
+
+Sub Total
+Credit
+Grand Total
+$30.00 USD
+$0.00 USD
+$30.00 USD
+07/12/2024 16:35:45 => [Info] Arquivo PDF: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura5.pdf
+07/12/2024 16:35:46 => [Info] Ficheiro: G:\desenv\rpa\Treinamento_RPA\udemy\marcelo_Cruz\UiPath\Projects\Processamento de Faturas\Documentos\Fatura5.pdf
+this*
+ThisWebHost LTD
+337 Bath Road
+Slough
+Berkshire
+SL1 5P
+United Kingdom
+Invoice #43214
+Invoice Date: 21/09/2020
+Due Date: 12/10/2020
+Invoiced To
+Some Company LTD - Robotic Automations
+3216 Maple Court, California, MO 63101 USA
+Description Total
+Starter Shared Hosting - (28/09/2016 - 27/10/2016) Hosting Location: United Kingdom (UK) $2100.00 USD
+Late Fee (Added 02/10/2016) $10.00 USD
+Sub Total $2110.00 USD
+Credit $0.00 USD
+Grand Total $2110.00 USD
+07/12/2024 16:35:47 => [Info] Processamento de Faturas execution ended in: 00:00:06
